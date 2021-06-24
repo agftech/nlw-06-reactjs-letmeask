@@ -5,14 +5,19 @@ import logoImg from '../assets/images/logo.svg';
 import googleIconImg from '../assets/images/google-icon.svg'
 
 import { Button } from '../components/Button';
+import { useAuth } from '../hooks/useAuth';
 
 import '../styles/auth.scss';
 
 export function Home() {
 
   const history = useHistory();
-  
-  function handleCreateRoom() {
+  const { user, signInWithGoogle } = useAuth();
+
+  async function handleCreateRoom() {
+    if (!user) {
+      await signInWithGoogle();
+    }
     history.push('/rooms/new');
   }
 
