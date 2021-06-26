@@ -40,15 +40,16 @@
 >
 > | Type  | Technologies                                                                                         | Codes
 > | --------- | ---------------------------------------------------------------------------------------------------- | -----------------------
-> | <img src="https://img.shields.io/badge/Web%3F-yes-c4c0ff?" alt="Web yes" /> | [<img src="https://img.shields.io/badge/SASS-CC6699?color=FFFFFF&logo=sass"/>](https://sass-lang.com/) + [<img src="https://img.shields.io/badge/ReactJS-000000?logo=react"/>](https://reactjs.org/) + [<img src="https://img.shields.io/badge/TypeScript-007ACC?color=FFFFFF&logo=typescript"/>](https://www.typescriptlang.org/) | :computer: [`Web`](https://github.com/agftech/nlw-06-reactjs-letmeask)
+> | <img src="https://img.shields.io/badge/Web%3F-yes-c4c0ff?" alt="Web yes" /> | [<img src="https://img.shields.io/badge/Firebase-FFCA28?color=FFFFFF&logo=firebase"/>](https://firebase.google.com/) + [<img src="https://img.shields.io/badge/ReactJS-000000?logo=react"/>](https://reactjs.org/) + [<img src="https://img.shields.io/badge/SASS-CC6699?color=FFFFFF&logo=sass"/>](https://sass-lang.com/) + [<img src="https://img.shields.io/badge/TypeScript-007ACC?color=FFFFFF&logo=typescript"/>](https://www.typescriptlang.org/) | :computer: [`Web`](https://github.com/agftech/nlw-06-reactjs-letmeask)
 >
 > ---
 
 > ---
 >
 > ## :rocket: _**Technologies**_:
-> - <a href="https://sass-lang.com//"><img alt="nextJS" align="center" src="https://img.shields.io/badge/-SASS-gray.svg?color=6A788D&style=for-the-badge" /></a>
+> - <a href="https://firebase.google.com/"><img alt="firebase" align="center" src="https://img.shields.io/badge/-Firebase-gray.svg?color=6A788D&style=for-the-badge" /></a>
 > - <a href="https://reactjs.org/"><img alt="react" align="center" src="https://img.shields.io/badge/-reactJS-gray.svg?color=6A788D&style=for-the-badge" /></a>
+> - <a href="https://sass-lang.com//"><img alt="sass" align="center" src="https://img.shields.io/badge/-SASS-gray.svg?color=6A788D&style=for-the-badge" /></a>
 > - <a href="https://www.typescriptlang.org/"><img alt="typescript" align="center" src="https://img.shields.io/badge/-typescript-gray.svg?color=6A788D&style=for-the-badge" /></a>
 >
 > ---
@@ -59,7 +60,7 @@
 > - *Clone this repository `https://github.com/agftech/nlw-06-reactjs-letmeask`;*
 >
 > - *Install dependencies with <img alt="yarn" align="center" src="https://img.shields.io/badge/yarn-gray.svg?color=6A788D&style=for-the-badge" />*
-> - *Start the server with <img alt="yarn dev" align="center" src="https://img.shields.io/badge/yarn dev-gray.svg?color=6A788D&style=for-the-badge" />*
+> - *Start the server with <img alt="yarn start" align="center" src="https://img.shields.io/badge/yarn start-gray.svg?color=6A788D&style=for-the-badge" />*
 > - *Access <a href="http://localhost:3000"><img alt="localhost" align="center" src="https://img.shields.io/badge/-http://localhost:3000-gray.svg?color=6A788D&style=for-the-badge" /></a> in your browser.*
 > ---
 
